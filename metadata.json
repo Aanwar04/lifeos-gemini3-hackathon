@@ -1,0 +1,8 @@
+{
+  "name": "LifeOS - Your Personal AI Organizer",
+  "description": "An intelligent life assistant that extracts actionable tasks from your text, voice, and images to keep you organized.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
